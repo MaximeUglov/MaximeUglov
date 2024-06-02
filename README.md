@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FiZTM5dDAwaG4wOWJnMHFhcm41YnU1ZGZpdXI3N2RxdnhqOHVhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhjXalGPAfJg4/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FiZTM5dDAwaG4wOWJnMHFhcm41YnU1ZGZpdXI3N2RxdnhqOHVhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhjXalGPAfJg4/giphy.gif" width="500"/>
 </div>
 
 ### <p align="center">Привет, меня зовут Максим, я Data Scientist. 👋</p>
