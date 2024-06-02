@@ -1,10 +1,14 @@
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FiZTM5dDAwaG4wOWJnMHFhcm41YnU1ZGZpdXI3N2RxdnhqOHVhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhjXalGPAfJg4/giphy.gif" width="100"/>
+</div>
+
 ### <p align="center">Привет, меня зовут Максим, я Data Scientist. 👋</p>
 
 </div>
 Для меня важно, чтобы моя работа в целом приносила пользу. Узнав о возможностях, которые открываются с применением машинного обучения, заинтересовался этой областью.
 
 ###  🛠️ Languages and Tools :  
-https://img.shields.io/badge/python?style=for-the-badge&logo=python
+
 
 
 <!--
