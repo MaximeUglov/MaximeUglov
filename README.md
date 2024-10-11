@@ -18,7 +18,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>
 </div>
-  
+
+  | |              |               |
+  |-----------|---------------------|-------------|
+  |            |                   |              |
 
 <!--
 **MaximeUglov/MaximeUglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
