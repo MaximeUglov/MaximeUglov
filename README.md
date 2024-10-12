@@ -7,7 +7,7 @@
 </div>
 Для меня важно, чтобы моя работа в целом приносила пользу. Узнав о возможностях, которые открываются с применением машинного обучения, заинтересовался этой областью.
 
-###  🛠️ Languages and Tools :
+###  🛠️ Инструменты и библиотеки:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
@@ -19,9 +19,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>
 </div>
 
-  | |              |               |
+### :writing_hand: Проекты:
+  | Название |   Описание           |      Библиотеки         |
   |-----------|---------------------|-------------|
-  |            |                   |              |
+  | Рекомендательная система Karpov Courses| |              |
+  |----|------------------|----------------|
+  
 
 <!--
 **MaximeUglov/MaximeUglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
