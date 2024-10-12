@@ -22,7 +22,7 @@
 ### :writing_hand: Проекты:
   | Название |   Описание           |      Библиотеки         |
   |-----------|---------------------|-------------|
-  | Рекомендательная система Karpov Courses| |              |
+  | [Рекомендательная система Karpov Courses](https://github.com/MaximeUglov/Recommendation-system-Karpov-Courses) | Сервис дает рекомендацию из постов для условного пользователя | Pandas, NumPy, SQLAlchemy, Scikit-learn, PyTorch, Catboost, FastAPI, Pydantic, Uvicorn|
   |----|------------------|----------------|
   
 
