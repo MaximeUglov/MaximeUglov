@@ -23,6 +23,7 @@
   | Название |   Описание           |      Библиотеки         |
   |-----------|---------------------|-------------|
   | [Рекомендательная система Karpov Courses](https://github.com/MaximeUglov/Recommendation-system-Karpov-Courses) | Сервис дает рекомендацию из постов для условного пользователя | Pandas, NumPy, SQLAlchemy, Scikit-learn, PyTorch, Catboost, FastAPI, Pydantic, Uvicorn|
+  | [Прогноз индекса биржи](https://github.com/MaximeUglov/Stock-market-prediction) | Прогнозирование индекса биржи на определенные даты | Pandas, NumPy, Scikit-learn, PyTorch|
   |----|------------------|----------------|
   
 
