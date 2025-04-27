@@ -10,7 +10,7 @@
 
 ---
 ###  📝 Образование:
-*Инженер машинного обучения (karpov.corses) [сертификат](https://lab.karpov.courses/certificate/6d83385b-e23c-404b-8e70-bd30ff2ce706/)   
+* Инженер машинного обучения (karpov.corses) [сертификат](https://lab.karpov.courses/certificate/6d83385b-e23c-404b-8e70-bd30ff2ce706/)   
 Математика для Data Science (karpov.corses) [сертификат](https://lab.karpov.courses/certificate/f01b39fe-344c-40d4-add4-d3ad741b44ae/)   
 Введение в Data Science и машинное обучение (Bioinformatics Institute) [сертификат](https://stepik.org/cert/2140649)   
 Основы статистики (Bioinformatics Institute) [сертификат](https://stepik.org/cert/2099486)   
