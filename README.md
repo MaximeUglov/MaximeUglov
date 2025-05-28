@@ -37,6 +37,7 @@
   | [Рекомендательная система Karpov Courses](https://github.com/MaximeUglov/Recommendation-system-Karpov-Courses) | Сервис дает рекомендацию из постов для условного пользователя | Pandas, NumPy, PostgreSQL, Scikit-learn, PyTorch, Catboost, FastAPI, Pydantic, Uvicorn|
   | [Прогноз индекса биржи](https://github.com/MaximeUglov/Stock-market-prediction) | Прогнозирование индекса биржи на определенные даты | Pandas, NumPy, Scikit-learn, PyTorch|
   | [Анализ продолжительности жизни](https://github.com/MaximeUglov/Life-expectancy-WHO) | Исследование данных ВОЗ, связанных с продолжительностью жизни | Pandas, NumPy, Matplotlib, Seaborn |
+  | [Распознавание сварки](https://github.com/MaximeUglov/Welding-detection) | Определение сварки и обнаружение дефектов | Ultralytics, Pandas, Matplotlib, Seaborn |
   
 
 <!--
