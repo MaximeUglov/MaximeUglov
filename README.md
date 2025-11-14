@@ -35,8 +35,8 @@
 ### :writing_hand: Проекты:
   | Название |   Описание           |      Библиотеки         |
   |-----------|---------------------|-------------|
-  | [Рекомендательная система Karpov Courses](https://github.com/MaximeUglov/Recommendation-system-Karpov-Courses) | Сервис дает рекомендацию из постов для условного пользователя | Pandas, NumPy, PostgreSQL, Scikit-learn, PyTorch, Catboost, FastAPI, Pydantic, Uvicorn|
-  | [Прогноз индекса биржи](https://github.com/MaximeUglov/Stock-market-prediction) | Прогнозирование индекса биржи на определенные даты | Pandas, NumPy, Scikit-learn, PyTorch|
+  | [Рекомендательная система Karpov Courses](https://github.com/MaximeUglov/Recommendation-system-Karpov-Courses) | Сервис дает рекомендацию из постов для условного пользователя | Pandas, NumPy, PostgreSQL, Scikit-learn, PyTorch, Catboost, FastAPI, Pydantic, Uvicorn |
+  | [Поисковик пунктов правил](https://github.com/MaximeUglov/Doc-search-bot) | Телеграм-бот для локального поиска пунктов правил по охране труда | Pandas, NumPy, AIOgram, Sentence Transformers |
   | [Поддельный или настоящий текст](https://github.com/MaximeUglov/Fake-or-Real-Text) | Определение текста, настоящий или поддельный | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, Transformers |
   | [Распознавание сварки](https://github.com/MaximeUglov/Welding-detection) | Определение сварки и обнаружение дефектов | Ultralytics, Pandas, Matplotlib, Seaborn |
   
