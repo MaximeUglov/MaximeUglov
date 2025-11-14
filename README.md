@@ -30,13 +30,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>
   <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64777c3e071ec953437e6950_logo.svg" title="python" alt="python" width="100" height="100"/>
+  <img src="https://aiogram.dev/assets/images/aiogram-logo.svg" title="python" alt="python" width="100" height="100"/>
 </div>
 
 ### :writing_hand: Проекты:
   | Название |   Описание           |      Библиотеки         |
   |-----------|---------------------|-------------|
   | [Рекомендательная система Karpov Courses](https://github.com/MaximeUglov/Recommendation-system-Karpov-Courses) | Сервис дает рекомендацию из постов для условного пользователя | Pandas, NumPy, PostgreSQL, Scikit-learn, PyTorch, Catboost, FastAPI, Pydantic, Uvicorn |
-  | [Поисковик пунктов правил](https://github.com/MaximeUglov/Doc-search-bot) | Телеграм-бот для локального поиска пунктов правил по охране труда | Pandas, NumPy, AIOgram, Sentence Transformers |
+  | [Поисковик пунктов правил](https://github.com/MaximeUglov/Doc-search-bot) | Телеграм-бот для локального поиска по смыслу пунктов правил по охране труда | Pandas, NumPy, AIOgram, Sentence Transformers |
   | [Поддельный или настоящий текст](https://github.com/MaximeUglov/Fake-or-Real-Text) | Определение текста, настоящий или поддельный | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, Transformers |
   | [Распознавание сварки](https://github.com/MaximeUglov/Welding-detection) | Определение сварки и обнаружение дефектов | Ultralytics, Pandas, Matplotlib, Seaborn |
   
